@@ -78,7 +78,7 @@ Detalhamento de vacinações e mortes em países selecionados:
 | 🇯🇵 Japão      | 231,831,923            | 65,166,851           |
 | 🇮🇩 Indonésia  | 169,822,491            | 236,852,140          |
 
-<img width="620" height="349" alt="image" src="https://github.com/user-attachments/assets/7104fa28-49c9-4a47-ac60-7845c8d1d6cd" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/7104fa28-49c9-4a47-ac60-7845c8d1d6cd" />
 
 ---
 
@@ -91,7 +91,7 @@ Os dados gerais são:
 - 💀 **Total de Mortes:** 10,357,409,417  
 - 💉 **Total de Vacinações:** 414,280,853,576  
 
-📷 <img width="617" height="347" alt="image" src="https://github.com/user-attachments/assets/c5c42c57-320e-43bb-a99b-1e14096e8b3a" />
+📷 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c5c42c57-320e-43bb-a99b-1e14096e8b3a" />
 
 
 ---
@@ -107,7 +107,7 @@ Os dados gerais são:
 | 🌏 Oceania        | 33,279          | 34,925,110          |
 | 🌎 América Sul    | 1,358,918       | 2,096,502,189       |
 
-📷 <img width="619" height="344" alt="image" src="https://github.com/user-attachments/assets/36b67c71-952c-41fd-abce-b1c74774c410" />
+📷 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/36b67c71-952c-41fd-abce-b1c74774c410" />
 
 
 ---
@@ -118,7 +118,7 @@ Os dados gerais são:
 - 🛏 **Admissões semanais em UTI:** 400.03K  
 - 👥 **Pacientes em UTI (total):** 2.93M  
 
-📷 <img width="618" height="347" alt="image" src="https://github.com/user-attachments/assets/e76c3af3-0b58-4e0b-ae2d-0ef37bee8bb3" />
+📷 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e76c3af3-0b58-4e0b-ae2d-0ef37bee8bb3" />
 
 
 ---
@@ -128,7 +128,7 @@ Os dados gerais são:
 📈 O índice, que reflete a rigidez das medidas de contenção, atingiu um pico em 2020 e caiu gradualmente em 2021 e 2022.  
 🔒 **Valor atual:** 49.12  
 
-📷 <img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/68ccf6c3-32ec-4d34-9a52-cf524b20c1d9" />
+📷 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/68ccf6c3-32ec-4d34-9a52-cf524b20c1d9" />
 
 
 ---
@@ -144,7 +144,7 @@ Esta análise oferece uma visão abrangente dos dados de COVID-19, destacando a 
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn
 - **Jupyter Notebook / Google Colab**
 - **Markdown** para documentação
-- **Git/GitHub** para versionamento
+- **Power Bi** para tratamento e visualização dinâmica.
 
 ---
 
