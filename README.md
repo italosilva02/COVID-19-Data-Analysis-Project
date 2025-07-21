@@ -43,7 +43,7 @@ O gráfico de dispersão **"Total Cases and Total Vaccination"** mostra uma corr
 - 🌍 **Soma total de vacinações:** ~10 bilhões  
 - 🌍 **Soma total de casos:** ~0.8 bilhões  
 
-📷 <img width="719" height="404" alt="image" src="https://github.com/user-attachments/assets/0b1d5008-c354-4e8b-8e27-2f9042040e38" />
+ <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/0b1d5008-c354-4e8b-8e27-2f9042040e38" />
 
 
 ---
