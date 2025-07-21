@@ -152,3 +152,5 @@ Esta análise oferece uma visão abrangente dos dados de COVID-19, destacando a 
 
 ⚠️ Algumas colunas do dataset possuem dados ausentes que exigem tratamento antes de análises mais avançadas.
 
+**DataSet** -- https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv
+
